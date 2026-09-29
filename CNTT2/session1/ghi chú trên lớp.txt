@@ -1,0 +1,11 @@
+R_point:điểm rèn luyện:
+-Để được thi,R_point >=80
+-R_point gồm:
+1.chuyên cần(20 đ)
+2.chuẩn bị bài(20 đ)
+3.bài tập về nhà(20 đ)
+4.tuân thủ nội quy(40 đ)
+-Bonus:
++10 điểm phát biểu
++10 điểm cán bộ lớp
+!:cả 3 mục 1,2,3 tỷ lệ phải >=80% mới được thi 
